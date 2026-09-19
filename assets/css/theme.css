@@ -1,8 +1,8 @@
 .theme{
-    --Primary-color:#196eb1;
-    --Secondary-color: #D98327;
-    --button-color:#D98327;
-    --button-hover-color: #196eb1;
+    --Primary-color:#d98327;
+    --Secondary-color: #d98327;
+    --button-color:#d98327;
+    --button-hover-color: #b56d20;
     --button-text-color: #fff;
     --button-text-hover-color: #fff;
 }
