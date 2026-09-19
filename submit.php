@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         $mail->setFrom('rock83694@gmail.com', 'Website Lead');
        
-         $mail->addAddress('salesconnect.teambb@gmail.com');
+         $mail->addAddress('Investorshub.response@gmail.com');
         $mail->addAddress('thegrowthmonks@gmail.com');
         $mail->addAddress('rock83694@gmail.com');
 

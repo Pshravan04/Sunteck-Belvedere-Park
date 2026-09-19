@@ -61,7 +61,7 @@
 		<p>&nbsp;</p>
         <h1 class="entry-title">Terms Of Use</h1>
 <p>&nbsp;</p>
-<p style="text-align: left;">MAHA RERA Act have come into effect from 1st may 2017. The content of website may not be be fully compliant with RERA as of date. We are in process of revising further details required as per RERA if pending any.</p>
+<p style="text-align: left;">This site is managed by Investorshub, a RERA registered Real Estate Agent Firm (RERA No: A51700058138). MAHA RERA Act have come into effect from 1st may 2017. The content of website may not be be fully compliant with RERA as of date. We are in process of revising further details required as per RERA if pending any.</p>
 <p style="text-align: left;">We all possible measures to avoid any misrepresenration but makes no warranties as to the content and information accuracy. While reasonable efforts are being made to ensure the authenticity and completeness of the Information displayed here and the same is updated at regular intervals there is a possibility that the information displayed may not be current and incomplete.</p>
 <p style="text-align: left;">Please make sure you verify all the details from the actual site office or from the RERA website before making any decision in relation to the purchase of the properties.</p>
 <p style="text-align: left;">We accept no liability for the content of this website content, or for the consequences of any actions taken on the basis of this website or content. Property Prices, location map image, master plan image, opinion/suggestions provided in this mail are subject to change without notice and shall in no way make us responsible for any loss/damages caused to the users/members.</p>
